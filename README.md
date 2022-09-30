@@ -1,4 +1,4 @@
-<img src="https://github.com/fershad/flowty/raw/main/logo-colour.svg" style="max-width: 100vw; width: 100%;" alt="" />
+<img src="https://github.com/fershad/flowty/raw/main/logo-color.svg" style="max-width: 100vw; width: 100%;" alt="" />
 
 # ⚠️⚠️ IMPORTANT ⚠️⚠️
 
