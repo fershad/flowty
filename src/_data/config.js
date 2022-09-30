@@ -14,7 +14,7 @@ module.exports = {
             "remove": false
         },
         "jquery": {
-            "remove": false
+            "remove": true
         },
     },
     "preloadNavigation": true,
